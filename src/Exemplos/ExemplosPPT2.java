@@ -1,4 +1,4 @@
-package ifElse;
+package Exemplos;
 public class ExemplosPPT2 {
     public static void main(String[] args) {
         int result = 7;

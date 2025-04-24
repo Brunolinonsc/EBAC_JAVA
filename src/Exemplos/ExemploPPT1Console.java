@@ -1,4 +1,4 @@
-package ifElse;
+package Exemplos;
 
 import java.util.Scanner;
 
