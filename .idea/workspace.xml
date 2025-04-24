@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f50b0f5e-09c2-4f23-95ca-0ecd3bda7032" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2wC5rH3YkHWfyO87ef9NZAyMqHb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExemploScanner.executor": "Run",
+    "Application.ExemplosPPT1.executor": "Run",
+    "Application.ExemplosPPT2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ExemplosPPT2">
+    <configuration name="ExemploScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchcase.ExemploScanner" />
+      <module name="JavaEBAC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="switchcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemplosPPT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse.ExemplosPPT1" />
+      <module name="JavaEBAC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemplosPPT2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse.ExemplosPPT2" />
+      <module name="JavaEBAC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ifElse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemplosPPT2" />
+        <item itemvalue="Application.ExemplosPPT1" />
+        <item itemvalue="Application.ExemploScanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f50b0f5e-09c2-4f23-95ca-0ecd3bda7032" name="Changes" comment="" />
+      <created>1745532916082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745532916082</updated>
+    </task>
+    <servers />
+  </component>
+</project>
