@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Abaixo voce professor irá inserir as quatro notas do aluno e ao termino do programa ira aparecer a média do aluno e se o mesmo esta aprovado.");
+        System.out.println("Abaixo voce professor irá inserir as quatro notas do aluno e ao termino do programa irá aparecer a média do aluno e se o mesmo esta aprovado em recuperação ou reprovado.");
         System.out.println("===========================================================");
 
         Scanner n1 = new Scanner(System.in);
